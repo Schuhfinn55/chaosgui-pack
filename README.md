@@ -8,3 +8,9 @@ Direktlink (für `pack.url` in `plugins/ChaosGUI/config.yml`):
     https://raw.githubusercontent.com/Schuhfinn55/chaosgui-pack/main/ChaosGUI-pack.zip
 
 SHA-1 steht in `ChaosGUI-pack.zip.sha1`. Quelle: Generator `tools/build_pack.py` im ChaosGUI-Projekt.
+
+## ChaosCrates-Pack
+
+3D-Modelle der Crates (Plugin ChaosCrates), Direktlink fuer `pack.url` in `plugins/ChaosCrates/config.yml`:
+
+    https://raw.githubusercontent.com/Schuhfinn55/chaosgui-pack/main/ChaosCrates-pack.zip
